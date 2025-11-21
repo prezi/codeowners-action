@@ -1,4 +1,8 @@
 # CODEOWNERS Action
+
+> [!CAUTION]  
+> This repo is deprecated, please do not use. Use https://github.com/marketplace/actions/codeowners-comment instead.
+
 Use this action to extract your CODEOWNER file information and check how individual files match CODEOWNER rules. It parses all the information and exports it as JSON. This output is available via the `steps` output context. 
 
 ## Usage
